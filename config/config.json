@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "admin_admin",
+    "password": "Tolulope890@",
+    "database": "admin_uniosunpayment",
+    "host": "167.172.156.224",
+    "port":"3306",
+    "dialect": "mysql",
+    "operatorsAliases": 1
+  },
+  "test": {
+    "username": "admin_admin",
+    "password": "Tolulope890@",
+    "database": "admin_uniosunpayment",
+    "host": "167.172.156.224",
+    "port":"3306",
+    "dialect": "mysql",
+    "operatorsAliases": 1
+  },
+  "production": {
+    "username": "admin_admin",
+    "password": "Tolulope890@",
+    "database": "admin_uniosunpayment",
+    "host": "167.172.156.224",
+    "port":"3306",
+    "dialect": "mysql",
+    "operatorsAliases": 1
+  }
+}
